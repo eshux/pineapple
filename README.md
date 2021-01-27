@@ -1,6 +1,5 @@
 # Web Developer Test
 
-[Click here](https://eshux.github.io/charts/) to see the project.
 
 This project was created with ReactJS and MySQL database.
 
