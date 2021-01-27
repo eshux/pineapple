@@ -27,10 +27,10 @@ You will also see any lint errors in the console.
 
 # Server-side
 
-MySQL database and server have been set up locally, so you won't be able to test the server-side of the project yourself, but feel free to check the code. 
+MySQL database and server have been set up locally using NodeJS, Express and XAMPP
 
 Preview: 
 
-<a href="https://gyazo.com/7f24b516071336f116c78fb62fc248d7"><video alt="Video from Gyazo" width="600" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/7f24b516071336f116c78fb62fc248d7.mp4" type="video/mp4" /></video></a>
+[<img src="https://i.gyazo.com/7f24b516071336f116c78fb62fc248d7.gif" width="500" />](https://gyazo.com/7f24b516071336f116c78fb62fc248d7)
 
 
