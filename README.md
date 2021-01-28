@@ -47,7 +47,7 @@ To start the server and connect to your database.
 
 You should see a message like this: 
 
-* Server is running on port 8000.
+*Server is running on port 8000.
 Successfully connected to the database.*
 
 If you see an error instead, make sure your MySQL server is running.
