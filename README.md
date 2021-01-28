@@ -32,8 +32,8 @@ For you to test the database connection and server yourself, you will need to se
 
 Call your database 'mydb'.
 
-Then to siplify things, you can use this command in your MySQL to create a table:`
-CREATE TABLE \`newdb\`.\`subscriptions\` ( \`id\` INT NOT NULL AUTO_INCREMENT , \`email\` VARCHAR(320) NOT NULL UNIQUE, \`provider\` VARCHAR(100) NOT NULL , \`date\` TIMESTAMP NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB` 
+Then to siplify things, you can use this command in your MySQL to create a table:
+``CREATE TABLE `newdb`.`subscriptions` ( `id` INT NOT NULL AUTO_INCREMENT , `email` VARCHAR(320) NOT NULL UNIQUE, `provider` VARCHAR(100) NOT NULL , `date` TIMESTAMP NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB``
 
 When that is set up, you can open *server* folder and run
 
